@@ -19,3 +19,5 @@ eat = gets.chomp
 puts "How many nights would you like to stay?"
 
 nights = gets.chomp
+
+"You would"
