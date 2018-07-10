@@ -20,3 +20,4 @@ puts "How many nights would you like to stay?"
 
 nights = gets.chomp
 
+puts "You are going to stay"
